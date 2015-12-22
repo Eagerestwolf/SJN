@@ -49,7 +49,7 @@
 * Updated CodeChickenCore
 
 ### 0.4.4
-* Removed TelePads
+* Removed TelePads (Caused Minecraft to crash when launching a world)
 
 ### 0.4.5
 * Added Vanilla Teleporters
